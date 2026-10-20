@@ -23,10 +23,9 @@
 
 - **[doubao-tts](https://github.com/Loveyless/doubao-tts)**：豆包文本转语音客户端与服务化改造，个人二开。
 
-### 五 / Gin WU
+### 五
 
 - **[d-switch](https://github.com/GinWU05/d-switch)**：macOS 跨显示器鼠标指针切换工具，个人二开。
-- **[wegroup-members](https://github.com/GinWU05/wegroup-members)**：微信群成员展示与发言排行，以静态页面呈现。
 - **[socrates-pig](https://github.com/GinWU05/socrates-pig)**：「痛苦的苏格拉底／快乐的猪」趣味测试。
 - **[claudecodeui](https://github.com/GinWU05/claudecodeui)**：加入 Pi 支持、修复与权限控制改动的个人分支，基于 CloudCLI / Claude Code UI 二开。
 
