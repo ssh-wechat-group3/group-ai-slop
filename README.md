@@ -70,7 +70,7 @@
 
 ## 如何贡献
 
-直接修改本仓库的 `README.md` 并提交 Pull Request；不方便提交 PR，也可以通过 [Issue](https://github.com/ssh-wechat-group3/vibe-coding-projects/issues) 提供线索。
+直接修改本仓库的 `README.md` 并提交 Pull Request；不方便提交 PR，也可以通过 [Issue](https://github.com/ssh-wechat-group3/group-ai-slop/issues) 提供线索。
 
 ### 新增项目
 
