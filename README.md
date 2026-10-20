@@ -1,4 +1,4 @@
-# SSH 前端 3 群 · Vibe Coding 项目索引
+# SSH 前端 3 群 · AI 泔水合集
 
 ## 写在前面
 
