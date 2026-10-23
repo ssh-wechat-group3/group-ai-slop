@@ -52,7 +52,7 @@
 
 - **[new-tab-components](https://github.com/lainbo/new-tab-components)**：前端组件与交互实验。
 - **[API Proxy](https://github.com/lainbo/api-proxy)**：Go 实现的 AI/API 薄反向代理，按路径前缀选择上游并转发原始请求。
-- **[Synopsis](https://github.com/lainbo/synopsis)**：基于 Cloudflare Workers 的域名邮件处理工具，将原件备份到 Gmail，并通过 Telegram 推送 AI 摘要。
+- **[Synopsis](https://github.com/lainbo/synopsis)**：部署在 Cloudflare Workers 上的个人邮件中枢：把自有域名的邮件转存到 Gmail，并把域名邮件和直接发到 Gmail 的邮件都整理成 AI 摘要推送到 Telegram bot。
 
 ### 吃饭不喝热水
 
