@@ -59,6 +59,8 @@
 - **[subbit](https://github.com/sywyyhykkk/subbit)**：本地优先的订阅与买断软件成本管理工具，支持 macOS、Windows。
 - **[UIgly](https://github.com/sywyyhykkk/uigly)**：收集文案、命名与布局等常见界面问题的独立 HTML/CSS 案例，并直接提供案例源码。
 
+- **[Magpie Screen](https://github.com/sywyyhykkk/magpie-screen)**：基于 ESP32-S3 的 Magpie 独立 Wi-Fi 数据屏，显示额度、实时路由和今日用量，并提供 Web 预览工具。
+
 ## 收录规则
 
 1. **与群友有关**：项目由群友开发、维护，或有实质性的个人二开。单纯推荐的第三方项目不在本索引范围内。
