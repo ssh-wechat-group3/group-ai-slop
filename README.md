@@ -57,6 +57,7 @@
 ### 吃饭不喝热水
 
 - **[subbit](https://github.com/sywyyhykkk/subbit)**：本地优先的订阅与买断软件成本管理工具，支持 macOS、Windows。
+- **[UIgly](https://github.com/sywyyhykkk/uigly)**：收集文案、命名与布局等常见界面问题的独立 HTML/CSS 案例，可直接在浏览器中打开并查看源码。
 
 ## 收录规则
 
